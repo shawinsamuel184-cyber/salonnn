@@ -10,7 +10,7 @@ const __dirname = path.dirname(__filename);
 // Change this to match your GitHub repo name.
 // For user/organization pages (yourname.github.io) set it to "/".
 // For project pages (yourname.github.io/saloon) set it to "/saloon/".
-const REPO_NAME = "supercutsaloon";
+const REPO_NAME = "salonnn";
 
 // https://vite.dev/config/
 export default defineConfig(({ command }) => ({
